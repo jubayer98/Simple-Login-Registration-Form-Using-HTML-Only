@@ -13,7 +13,7 @@ Creating a login and registration form is a common task in web development. This
 
 ## Files
 
-- **index.html**: Contains the HTML structure for the login and registration forms.
+- **home.html**: Contains the HTML structure for the login and registration forms.
 
 ## Contribution
 
